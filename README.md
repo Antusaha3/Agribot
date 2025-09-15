@@ -1,17 +1,3 @@
-# KrishiBot — Phase 0 (Project Setup)
-
-This scaffold covers **Phase 0** only (no Git instructions). It sets up a reproducible workspace, configuration, environment variables, and governance templates.
-
-## What’s included
-- `config/project.yaml` — central configuration (paths, chunking, embeddings, DB URIs)
-- `config/.env.example` — env var template
-- `config/sources.csv` — register data sources
-- `docs/datacards/` — data card templates (Markdown + JSON schema)
-- `docs/charter.md` — project charter with KPIs (accuracy, faithfulness, latency)
-- `src/krishibot/config.py` — Pydantic-based loader that merges YAML + .env
-- `scripts/setup_env.sh` and `scripts/setup_env.ps1` — convenience scripts to create a Python 3.11 venv and install deps
-- `pyproject.toml` (Poetry) and `requirements.txt` (pip) — choose one workflow
-- `Makefile` and `tasks.py` — optional helpers (uniform commands across OSes)
 
 ## Quick start (pip, Python 3.11)
 ```bash
