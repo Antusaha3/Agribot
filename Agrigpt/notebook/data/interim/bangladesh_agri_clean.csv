@@ -1,0 +1,104 @@
+season,transplant,growth,harvest,crop_name,crop_type,max_temp_c,min_temp_c,max_rh,min_rh,country
+Kharif 1,March,April to july,Aug,Aus Rice(Local: Broadcasted),Cereals,40.0,12.0,60,85,Bangladesh
+Kharif 1,March,April to june,July,Aus Rice(HYV: Transplant),Cereals,40.0,12.0,60,85,Bangladesh
+Kharif 1,March,April to May,June to July,Maize 2,Cereals,34.0,20.0,60,85,Bangladesh
+Kharif 1,Feb,March to May,June,Mungbean 2,Pulses,30.0,20.0,20,85,Bangladesh
+Kharif 1,July,Aug to Oct,Oct to Nov,Soybean 2,Oil Seeds,35.0,15.0,35,80,Bangladesh
+Kharif 1,May,June to Sep,Oct,Groundnut 2,Oil Seeds,35.0,20.0,80,90,Bangladesh
+Kharif 1,March,April to Aug,Sep,Ridge Gourd,Vegetables,35.0,25.0,85,90,Bangladesh
+Kharif 1,March,April to Aug,Sep to Oct,Indian Spinach(Pui shakh),Vegetables,20.0,15.0,75,95,Bangladesh
+Kharif 1,March,April to Aug,Sep to Oct,Kang Kong(Kolomi Shakh),Vegetables,35.0,20.0,80,100,Bangladesh
+Kharif 1,July,Sep to March,March,Egg plant,Vegetables,45.0,23.0,50,85,Bangladesh
+Kharif 1,June,Aug to Feb,March,Hyacinth Bean,Vegetables,25.0,17.0,76,94,Bangladesh
+Kharif 1,Feb,March to June,June to July,Onion 2,Vegetables,30.0,20.0,65,75,Bangladesh
+Kharif 1,March,April to Aug,Sep,Jute(Capsularis),Fibre,40.0,20.0,70,80,Bangladesh
+Kharif 1,April,May to Aug,Sep,Jute(Olitorius),Fibre,40.0,20.0,70,80,Bangladesh
+Kharif 1,April,June to Aug,Mid Aug to  Oct,Jowar,Staple,32.0,27.0,65,75,Bangladesh
+Kharif 1,March,April to July,July to Oct,Sunn Hemp 1,Oil Seeds,27.0,18.0,40,70,Bangladesh
+Kharif 1,April,May to Aug,Oct to Dec,Cotton 1,Fibre,35.0,20.0,43,76,Bangladesh
+Kharif 1,April,May to Dec,Dec to March,Turmeric,Vegetables,30.0,20.0,45,80,Bangladesh
+Kharif 1,June,July to Nov,Nov to April,Beans,Vegetables,22.0,10.0,60,75,Bangladesh
+Kharif 1,April,May to June,June to Sep,Ladys Finger,Vegetables,30.0,10.0,75,85,Bangladesh
+Kharif 1,April,May to July,July to Sep,Kakrol,Vegetables,30.0,20.0,60,85,Bangladesh
+Kharif 1,April,May to June,June to Aug,Jhinga(Ribbed Gourd),Vegetables,28.0,18.0,70,90,Bangladesh
+Kharif 1,March,April to July,July to Oct,Chal Kumra(White Gourd),Vegetables,27.0,18.0,65,85,Bangladesh
+Kharif 1,April,May to Sep,Sep to Feb,Mukhi Kachu(Taro),Vegetables,15.0,8.0,65,90,Bangladesh
+Kharif 1,April,No need to do,April to June,Litchi 1,Fruits,28.0,6.0,70,85,Bangladesh
+Kharif 1,April,No need to do,April to June,Mango 1,Fruits,36.0,27.0,50,90,Bangladesh
+Kharif 1,April,No need to do,April to June,Jackfruit 1,Fruits,47.0,22.0,70,95,Bangladesh
+Kharif 1,April,No need to do,Jan to March,Safeda(Sapota) 1,Fruits,38.0,10.0,60,80,Bangladesh
+Kharif 1,April,No need to do,May to July,Safeda(Sapota) 2,Fruits,38.0,10.0,60,80,Bangladesh
+Kharif 1,April,No need to do,May to June,Pomelo 1,Fruits,30.0,25.0,70,90,Bangladesh
+Kharif 1,April,No need to do,Throuout The year,Guava,Fruits,35.0,23.0,50,85,Bangladesh
+Kharif 1,April,No need to do,Feb to March,Date Palm,Fruits,35.0,6.0,60,85,Bangladesh
+Kharif 1,April,No need to do,Throuout The year,Dalim(Pomegranate) 1,Fruits,38.0,5.0,70,95,Bangladesh
+Kharif 1,April,No need to do,Feb to March,Ber 1,Fruits,33.0,18.0,60,85,Bangladesh
+Rabi,Nov,Dec to March,April,Boro(HYV: Transplant),Cereals,40.0,12.0,60,85,Bangladesh
+Rabi,Dec,Jan  to  March,April,Wheat,Cereals,20.0,15.5,50,60,Bangladesh
+Rabi,Dec,Jan  to  March,April,Maize 1,Cereals,27.0,14.0,50,70,Bangladesh
+Rabi,Sep,Oct to Feb,March,Mungbean 1,Pulses,30.0,20.0,20,85,Bangladesh
+Rabi,Dec,Jan to  April,May,Soybean 1,Oil Seeds,25.0,15.0,30,70,Bangladesh
+Rabi,Oct,Nov to March,March to April,Groundnut 1,Oil Seeds,35.0,20.0,80,90,Bangladesh
+Rabi,Nov,Dec to Jan,Feb,Sesame 1,Oil Seeds,35.0,27.0,40,50,Bangladesh
+Rabi,Feb,March to July,Aug to Sep,Bitter Gourd,Vegetables,27.0,24.0,85,90,Bangladesh
+Rabi,Feb,March to Aug,Aug to Sep,Snake Gourd,Vegetables,38.0,25.0,85,90,Bangladesh
+Rabi,Feb,April to July,Aug to Sep,Sweet Gourd,Vegetables,25.0,18.0,20,60,Bangladesh
+Rabi,March,April to Aug,Sep,Stem Amaranth(Danta Shakh),Vegetables,32.0,18.0,75,85,Bangladesh
+Rabi,Nov,Jan to May,June,Orange,Fruits,30.0,15.0,82,85,Bangladesh
+Rabi,Jan,Jan to Jan,Jan,Lemon,Fruits,25.0,10.0,60,95,Bangladesh
+Rabi,Jan,Jan to Jan,Jan,Banana,Fruits,35.0,15.0,75,85,Bangladesh
+Rabi,Nov,Dec to Feb,March,Green Pea,Vegetables,22.0,15.0,80,90,Bangladesh
+Rabi,Jan,Feb to Aug,Sep to Oct,Okra,Vegetables,29.0,20.0,70,95,Bangladesh
+Rabi,Oct,Nov to Jan,Feb,Onion 1,Vegetables,25.0,20.0,65,75,Bangladesh
+Rabi,Nov,Dec to March,April,Sweet Potatoes,Vegetables,24.0,17.0,70,90,Bangladesh
+Rabi,Nov,Dec to March,Mid March to  mid aug,Kaong,Fruits,25.0,10.0,75,95,Bangladesh
+Rabi,Nov,Dec to Feb,Feb to April,Cheena,Fruits,25.0,17.0,40,85,Bangladesh
+Rabi,Feb,March to May,May to June,Teel 1,Vegetables,30.0,20.0,50,85,Bangladesh
+Rabi,Dec,Jan to May,May to July,Kakora,Vegetables,30.0,20.0,20,55,Bangladesh
+Kharif 2,June,July to  Oct,Nov to Dec,Aman Rice(Local: Transplant),Cereals,40.0,12.0,60,85,Bangladesh
+Kharif 2,Sep,Oct to Jan,Feb,Potato,Tubers,26.5,15.0,85,90,Bangladesh
+Kharif 2,Oct,Nov  to  Feb,Feb to March,Lentiles,Pulses,20.0,10.0,85,95,Bangladesh
+Kharif 2,Nov,Dec to March,March to April,Chickpea,Pulses,26.5,15.0,25,85,Bangladesh
+Kharif 2,Aug,Sep to Oct,Nov,Blackgram,Pulses,35.0,20.0,25,45,Bangladesh
+Kharif 2,Oct,Nov  to  Jan,Feb,Mustard,Oil Seeds,25.0,10.0,70,95,Bangladesh
+Kharif 2,March,April to July,July to Aug,Sesame 2,Oil Seeds,30.0,20.0,40,50,Bangladesh
+Kharif 2,July,Sep to Feb,March,Bottle Gourd,Vegetables,35.0,18.0,75,85,Bangladesh
+Kharif 2,Sep,Nov to March,March to jun,Cucumber,Vegetables,35.0,18.0,60,90,Bangladesh
+Kharif 2,Sep,Nov to Jan,Feb,Cauliflower,Vegetables,30.0,8.0,70,85,Bangladesh
+Kharif 2,Sep,Oct to Feb,March,Chinese Cabbage,Vegetables,24.0,8.0,70,85,Bangladesh
+Kharif 2,Oct,Nov to Feb,March,Radish,Vegetables,22.0,10.0,75,95,Bangladesh
+Kharif 2,Oct,Nov to Feb,March,Carrot,Vegetables,21.0,15.0,47,86,Bangladesh
+Kharif 2,Sep,Oct to Jan,Feb,Cabbage,Vegetables,24.0,10.0,60,90,Bangladesh
+Kharif 2,Oct,Nov to Aug,Aug to Sep,Suger Can,Fruits,38.0,20.0,45,85,Bangladesh
+Kharif 2,Sep,Oct to Feb,March,Jujube,Fruits,25.0,15.0,60,80,Bangladesh
+Kharif 2,Sep,Sep to May,June to Aug,Pine Apple,Fruits,35.0,18.0,70,80,Bangladesh
+Kharif 2,Aug,Sep to Jan,Jan,Tomato,Vegetables,30.0,18.0,80,90,Bangladesh
+Kharif 2,Oct,Nov to Feb,March,Yardlong Bean,Vegetables,27.0,21.0,70,80,Bangladesh
+Kharif 2,Oct,Nov to Jan,Feb,Garlic,Vegetables,30.0,20.0,65,70,Bangladesh
+Kharif 2,Oct,Nov to Jan,Feb,Coriander(Dhonia),Vegetables,21.0,18.0,75,85,Bangladesh
+Kharif 2,Aug,Sep to Jan,Feb,Spinach,Vegetables,30.0,12.0,65,75,Bangladesh
+Kharif 2,Oct,Dec to Feb,Feb to April,Barley,Cereals,25.0,12.0,80,95,Bangladesh
+Kharif 2,Sep,Oct to Feb,Feb to April,Sunn Hemp 2,Oil Seeds,27.0,18.0,50,85,Bangladesh
+Kharif 2,Aug,Sep to Feb,Feb to April,Cotton 2,Fibre,30.0,18.0,43,76,Bangladesh
+Kharif 2,Oct,Nov  to  Jan,Feb,RapeSeed,Oil Seeds,25.0,10.0,70,95,Bangladesh
+Kharif 2,Sep,Oct to Dec,Dec,Teel 2,Vegetables,30.0,20.0,50,85,Bangladesh
+Kharif 2,Oct,Nov to March,March to May,Linseed,Vegetables,30.0,15.0,50,70,Bangladesh
+Kharif 2,Sep,Oct to Dec,December to April,Barbati,Vegetables,30.0,20.0,60,85,Bangladesh
+Kharif 2,Oct,Nov to Feb,Feb to April,Kheshari,Vegetables,25.0,10.0,20,45,Bangladesh
+Kharif 2,Oct,Nov to March,March to April,Motor(Field Pea),Vegetables,30.0,15.0,75,90,Bangladesh
+Kharif 2,Oct,Nov to Feb,Feb to April,Tobacco,Nicotine,20.0,15.0,50,85,Bangladesh
+Kharif 2,Sep,Oct to Dec,Dec to Feb,Oal Kapi(Knol Khol),Vegetables,32.0,15.0,52,70,Bangladesh
+Kharif 2,Sep,Oct to Nov,Nov to Feb,Shalgam(Turnip),Vegetables,24.0,5.0,70,95,Bangladesh
+Kharif 2,Sep,Oct to Dec,Dec to April,Beetroot,Vegetables,24.0,5.0,70,90,Bangladesh
+Kharif 2,Oct,Nov to Dec,Dec to Feb,Lettuce,Vegetables,24.0,7.0,50,70,Bangladesh
+Kharif 2,July,Aug to Jan,Jan to March,Water Gourd,Vegetables,35.0,18.0,75,85,Bangladesh
+Kharif 2,Aug,Sep to Jan,Jan to March,Patal,Vegetables,35.0,20.0,60,85,Bangladesh
+Kharif 2,Oct,Nov to Feb,Feb to June,Water Melon,Fruits,33.0,10.0,65,80,Bangladesh
+Kharif 2,Oct,Nov to Feb,Feb to June,Melon,Fruits,33.0,10.0,65,80,Bangladesh
+Kharif 2,Oct,Nov to Feb,Feb to June,Kharmuj(Musk Melon),Fruits,33.0,10.0,65,80,Bangladesh
+Kharif 2,Sep,No need to do,April to June,Litchi 2,Fruits,28.0,6.0,70,85,Bangladesh
+Kharif 2,Sep,No need to do,April to June,Mango 2,Fruits,36.0,27.0,50,90,Bangladesh
+Kharif 2,Sep,No need to do,April to June,Jackfruit 2,Fruits,47.0,22.0,70,95,Bangladesh
+Kharif 2,Sep,No need to do,May to June,Pomelo 2,Fruits,30.0,25.0,70,90,Bangladesh
+Kharif 2,Sep,No need to do,Throuout The year,Dalim(Pomegranate) 2,Fruits,38.0,5.0,70,95,Bangladesh
+Kharif 2,Sep,No need to do,Feb to March,Ber 2,Fruits,30.0,20.0,60,85,Bangladesh

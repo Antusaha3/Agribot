@@ -1,0 +1,104 @@
+crop_id,season_id,transplant,harvest
+crop:aus-rice-local-broadcasted,season:kharif-1,March,Aug
+crop:aus-rice-hyv-transplant,season:kharif-1,March,July
+crop:maize-2,season:kharif-1,March,June to July
+crop:mungbean-2,season:kharif-1,Feb,June
+crop:soybean-2,season:kharif-1,July,Oct to Nov
+crop:groundnut-2,season:kharif-1,May,Oct
+crop:ridge-gourd,season:kharif-1,March,Sep
+crop:indian-spinach-pui-shakh,season:kharif-1,March,Sep to Oct
+crop:kang-kong-kolomi-shakh,season:kharif-1,March,Sep to Oct
+crop:egg-plant,season:kharif-1,July,March
+crop:hyacinth-bean,season:kharif-1,June,March
+crop:onion-2,season:kharif-1,Feb,June to July
+crop:jute-capsularis,season:kharif-1,March,Sep
+crop:jute-olitorius,season:kharif-1,April,Sep
+crop:jowar,season:kharif-1,April,Mid Aug to Oct
+crop:sunn-hemp-1,season:kharif-1,March,July to Oct
+crop:cotton-1,season:kharif-1,April,Oct to Dec
+crop:turmeric,season:kharif-1,April,Dec to March
+crop:beans,season:kharif-1,June,Nov to April
+crop:ladys-finger,season:kharif-1,April,June to Sep
+crop:kakrol,season:kharif-1,April,July to Sep
+crop:jhinga-ribbed-gourd,season:kharif-1,April,June to Aug
+crop:chal-kumra-white-gourd,season:kharif-1,March,July to Oct
+crop:mukhi-kachu-taro,season:kharif-1,April,Sep to Feb
+crop:litchi-1,season:kharif-1,April,April to June
+crop:mango-1,season:kharif-1,April,April to June
+crop:jackfruit-1,season:kharif-1,April,April to June
+crop:safeda-sapota-1,season:kharif-1,April,Jan to March
+crop:safeda-sapota-2,season:kharif-1,April,May to July
+crop:pomelo-1,season:kharif-1,April,May to June
+crop:guava,season:kharif-1,April,Throuout The year
+crop:date-palm,season:kharif-1,April,Feb to March
+crop:dalim-pomegranate-1,season:kharif-1,April,Throuout The year
+crop:ber-1,season:kharif-1,April,Feb to March
+crop:boro-hyv-transplant,season:rabi,Nov,April
+crop:wheat,season:rabi,Dec,April
+crop:maize-1,season:rabi,Dec,April
+crop:mungbean-1,season:rabi,Sep,March
+crop:soybean-1,season:rabi,Dec,May
+crop:groundnut-1,season:rabi,Oct,March to April
+crop:sesame-1,season:rabi,Nov,Feb
+crop:bitter-gourd,season:rabi,Feb,Aug to Sep
+crop:snake-gourd,season:rabi,Feb,Aug to Sep
+crop:sweet-gourd,season:rabi,Feb,Aug to Sep
+crop:stem-amaranth-danta-shakh,season:rabi,March,Sep
+crop:orange,season:rabi,Nov,June
+crop:lemon,season:rabi,Jan,Jan
+crop:banana,season:rabi,Jan,Jan
+crop:green-pea,season:rabi,Nov,March
+crop:okra,season:rabi,Jan,Sep to Oct
+crop:onion-1,season:rabi,Oct,Feb
+crop:sweet-potatoes,season:rabi,Nov,April
+crop:kaong,season:rabi,Nov,Mid March to mid aug
+crop:cheena,season:rabi,Nov,Feb to April
+crop:teel-1,season:rabi,Feb,May to June
+crop:kakora,season:rabi,Dec,May to July
+crop:aman-rice-local-transplant,season:kharif-2,June,Nov to Dec
+crop:potato,season:kharif-2,Sep,Feb
+crop:lentiles,season:kharif-2,Oct,Feb to March
+crop:chickpea,season:kharif-2,Nov,March to April
+crop:blackgram,season:kharif-2,Aug,Nov
+crop:mustard,season:kharif-2,Oct,Feb
+crop:sesame-2,season:kharif-2,March,July to Aug
+crop:bottle-gourd,season:kharif-2,July,March
+crop:cucumber,season:kharif-2,Sep,March to jun
+crop:cauliflower,season:kharif-2,Sep,Feb
+crop:chinese-cabbage,season:kharif-2,Sep,March
+crop:radish,season:kharif-2,Oct,March
+crop:carrot,season:kharif-2,Oct,March
+crop:cabbage,season:kharif-2,Sep,Feb
+crop:suger-can,season:kharif-2,Oct,Aug to Sep
+crop:jujube,season:kharif-2,Sep,March
+crop:pine-apple,season:kharif-2,Sep,June to Aug
+crop:tomato,season:kharif-2,Aug,Jan
+crop:yardlong-bean,season:kharif-2,Oct,March
+crop:garlic,season:kharif-2,Oct,Feb
+crop:coriander-dhonia,season:kharif-2,Oct,Feb
+crop:spinach,season:kharif-2,Aug,Feb
+crop:barley,season:kharif-2,Oct,Feb to April
+crop:sunn-hemp-2,season:kharif-2,Sep,Feb to April
+crop:cotton-2,season:kharif-2,Aug,Feb to April
+crop:rapeseed,season:kharif-2,Oct,Feb
+crop:teel-2,season:kharif-2,Sep,Dec
+crop:linseed,season:kharif-2,Oct,March to May
+crop:barbati,season:kharif-2,Sep,December to April
+crop:kheshari,season:kharif-2,Oct,Feb to April
+crop:motor-field-pea,season:kharif-2,Oct,March to April
+crop:tobacco,season:kharif-2,Oct,Feb to April
+crop:oal-kapi-knol-khol,season:kharif-2,Sep,Dec to Feb
+crop:shalgam-turnip,season:kharif-2,Sep,Nov to Feb
+crop:beetroot,season:kharif-2,Sep,Dec to April
+crop:lettuce,season:kharif-2,Oct,Dec to Feb
+crop:water-gourd,season:kharif-2,July,Jan to March
+crop:patal,season:kharif-2,Aug,Jan to March
+crop:water-melon,season:kharif-2,Oct,Feb to June
+crop:melon,season:kharif-2,Oct,Feb to June
+crop:kharmuj-musk-melon,season:kharif-2,Oct,Feb to June
+crop:litchi-2,season:kharif-2,Sep,April to June
+crop:mango-2,season:kharif-2,Sep,April to June
+crop:jackfruit-2,season:kharif-2,Sep,April to June
+crop:pomelo-2,season:kharif-2,Sep,May to June
+crop:dalim-pomegranate-2,season:kharif-2,Sep,Throuout The year
+crop:ber-2,season:kharif-2,Sep,Feb to March

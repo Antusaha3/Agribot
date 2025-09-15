@@ -1,0 +1,35 @@
+crop_id,crop_name_bn,disease_name_bn,disease_name_en,notes
+crop:aman,ধান,ফলস স্মাট,False smut,শীষে হলদে-সবুজ গোল বলের মতো গুচ্ছ
+crop:aman,ধান,শীথ রট,Sheath rot,তিলার খোলসে বাদামি পচন
+crop:aman,ধান,টুঙ্গরো ভাইরাস,Rice tungro virus,ভাইরাল; পাতায় হলদে-কমলা বর্ণ
+crop:aman,ধান,ন্যারো ব্রাউন স্পট,Narrow brown spot,পাতায় সরু বাদামি দাগ
+crop:aman,ধান,লিফ ফোল্ডার,Leaf folder,পতঙ্গ; পাতা ভাঁজ করে খায়
+crop:aman,ধান,ইয়েলো স্টেম বোরার,Yellow stem borer,পতঙ্গ; ডেড হার্ট/হোয়াইট হেড
+crop:aman,ধান,রাইস হিস্পা,Rice hispa,পতঙ্গ; পাতার ওপর স্ক্র্যাপিং
+
+crop:aus,আউশ ধান,ব্লাস্ট,Blast,পাতা/গোড়ায় পোড়া দাগ
+crop:aus,আউশ ধান,ব্রাউন স্পট,Brown spot,পাতায় বাদামি দাগ
+crop:aus,আউশ ধান,ফলস স্মাট,False smut,শীষে বলের মতো গুচ্ছ
+crop:aus,আউশ ধান,লিফ ফোল্ডার,Leaf folder,পতঙ্গ
+crop:aus,আউশ ধান,ইয়েলো স্টেম বোরার,Yellow stem borer,পতঙ্গ
+crop:aus,আউশ ধান,রাইস হিস্পা,Rice hispa,পতঙ্গ
+
+crop:boro,বোরো ধান,শীথ ব্লাইট,Sheath blight,তিলার গোড়ায় পচন
+crop:boro,বোরো ধান,ফলস স্মাট,False smut,শীষে বল
+crop:boro,বোরো ধান,শীথ রট,Sheath rot,খোলস পচন
+crop:boro,বোরো ধান,লিফ ফোল্ডার,Leaf folder,পতঙ্গ
+crop:boro,বোরো ধান,ইয়েলো স্টেম বোরার,Yellow stem borer,পতঙ্গ
+crop:boro,বোরো ধান,ন্যারো ব্রাউন স্পট,Narrow brown spot,পাতায় সরু দাগ
+
+crop:wheat,গম,পাউডারি মিলডিউ,Powdery mildew,পাতায় সাদা ছত্রাক স্তর
+crop:wheat,গম,সেপ্টোরিয়া লিফ ব্লচ,Septoria leaf blotch,পাতায় অনিয়মিত দাগ
+crop:wheat,গম,কার্নাল বান্ট,Karnal bunt,শীষ/দানায় কালচে গুটি
+crop:wheat,গম,লুজ স্মাট,Loose smut,শীষে কালো স্পোর
+crop:wheat,গম,ফিউজারিয়াম হেড ব্লাইট,Fusarium head blight,শীষ পচা/গোলাপি ছত্রাক
+
+crop:tomato,টমেটো,ব্যাকটেরিয়াল উইল্ট,Bacterial wilt,Ralstonia; হঠাৎ ঢলে পড়া
+crop:tomato,টমেটো,টমেটো মোজাইক ভাইরাস,Tomato mosaic virus,পাতা কুঁচকে মোজাইক দাগ
+crop:tomato,টমেটো,সেপ্টোরিয়া লিফ স্পট,Septoria leaf spot,পাতায় ছোট গোল দাগ
+crop:tomato,টমেটো,পাউডারি মিলডিউ,Powdery mildew,সাদা ছত্রাক স্তর
+crop:tomato,টমেটো,রুট-নট নিমাটোড,Root-knot nematode,গোড়ায় গুটি; গাছ দুর্বল
+crop:tomato,টমেটো,ফ্রুট বোরার,Tomato fruit borer,পতঙ্গ; ফলে গর্ত করে খায়

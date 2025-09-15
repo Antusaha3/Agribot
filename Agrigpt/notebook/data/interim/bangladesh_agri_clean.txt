@@ -1,0 +1,103 @@
+ফসল: Aus Rice(Local: Broadcasted) | মৌসুম: Kharif 1 | রোপণ: March | বৃদ্ধি: April to july | কাটাই: Aug | তাপমাত্রা: 12.0–40.0°C | আপেক্ষিক আর্দ্রতা: 85–60% | দেশ: Bangladesh
+ফসল: Aus Rice(HYV: Transplant) | মৌসুম: Kharif 1 | রোপণ: March | বৃদ্ধি: April to june | কাটাই: July | তাপমাত্রা: 12.0–40.0°C | আপেক্ষিক আর্দ্রতা: 85–60% | দেশ: Bangladesh
+ফসল: Maize 2 | মৌসুম: Kharif 1 | রোপণ: March | বৃদ্ধি: April to May | কাটাই: June to July | তাপমাত্রা: 20.0–34.0°C | আপেক্ষিক আর্দ্রতা: 85–60% | দেশ: Bangladesh
+ফসল: Mungbean 2 | মৌসুম: Kharif 1 | রোপণ: Feb | বৃদ্ধি: March to May | কাটাই: June | তাপমাত্রা: 20.0–30.0°C | আপেক্ষিক আর্দ্রতা: 85–20% | দেশ: Bangladesh
+ফসল: Soybean 2 | মৌসুম: Kharif 1 | রোপণ: July | বৃদ্ধি: Aug to Oct | কাটাই: Oct to Nov | তাপমাত্রা: 15.0–35.0°C | আপেক্ষিক আর্দ্রতা: 80–35% | দেশ: Bangladesh
+ফসল: Groundnut 2 | মৌসুম: Kharif 1 | রোপণ: May | বৃদ্ধি: June to Sep | কাটাই: Oct | তাপমাত্রা: 20.0–35.0°C | আপেক্ষিক আর্দ্রতা: 90–80% | দেশ: Bangladesh
+ফসল: Ridge Gourd | মৌসুম: Kharif 1 | রোপণ: March | বৃদ্ধি: April to Aug | কাটাই: Sep | তাপমাত্রা: 25.0–35.0°C | আপেক্ষিক আর্দ্রতা: 90–85% | দেশ: Bangladesh
+ফসল: Indian Spinach(Pui shakh) | মৌসুম: Kharif 1 | রোপণ: March | বৃদ্ধি: April to Aug | কাটাই: Sep to Oct | তাপমাত্রা: 15.0–20.0°C | আপেক্ষিক আর্দ্রতা: 95–75% | দেশ: Bangladesh
+ফসল: Kang Kong(Kolomi Shakh) | মৌসুম: Kharif 1 | রোপণ: March | বৃদ্ধি: April to Aug | কাটাই: Sep to Oct | তাপমাত্রা: 20.0–35.0°C | আপেক্ষিক আর্দ্রতা: 100–80% | দেশ: Bangladesh
+ফসল: Egg plant | মৌসুম: Kharif 1 | রোপণ: July | বৃদ্ধি: Sep to March | কাটাই: March | তাপমাত্রা: 23.0–45.0°C | আপেক্ষিক আর্দ্রতা: 85–50% | দেশ: Bangladesh
+ফসল: Hyacinth Bean | মৌসুম: Kharif 1 | রোপণ: June | বৃদ্ধি: Aug to Feb | কাটাই: March | তাপমাত্রা: 17.0–25.0°C | আপেক্ষিক আর্দ্রতা: 94–76% | দেশ: Bangladesh
+ফসল: Onion 2 | মৌসুম: Kharif 1 | রোপণ: Feb | বৃদ্ধি: March to June | কাটাই: June to July | তাপমাত্রা: 20.0–30.0°C | আপেক্ষিক আর্দ্রতা: 75–65% | দেশ: Bangladesh
+ফসল: Jute(Capsularis) | মৌসুম: Kharif 1 | রোপণ: March | বৃদ্ধি: April to Aug | কাটাই: Sep | তাপমাত্রা: 20.0–40.0°C | আপেক্ষিক আর্দ্রতা: 80–70% | দেশ: Bangladesh
+ফসল: Jute(Olitorius) | মৌসুম: Kharif 1 | রোপণ: April | বৃদ্ধি: May to Aug | কাটাই: Sep | তাপমাত্রা: 20.0–40.0°C | আপেক্ষিক আর্দ্রতা: 80–70% | দেশ: Bangladesh
+ফসল: Jowar | মৌসুম: Kharif 1 | রোপণ: April | বৃদ্ধি: June to Aug | কাটাই: Mid Aug to Oct | তাপমাত্রা: 27.0–32.0°C | আপেক্ষিক আর্দ্রতা: 75–65% | দেশ: Bangladesh
+ফসল: Sunn Hemp 1 | মৌসুম: Kharif 1 | রোপণ: March | বৃদ্ধি: April to July | কাটাই: July to Oct | তাপমাত্রা: 18.0–27.0°C | আপেক্ষিক আর্দ্রতা: 70–40% | দেশ: Bangladesh
+ফসল: Cotton 1 | মৌসুম: Kharif 1 | রোপণ: April | বৃদ্ধি: May to Aug | কাটাই: Oct to Dec | তাপমাত্রা: 20.0–35.0°C | আপেক্ষিক আর্দ্রতা: 76–43% | দেশ: Bangladesh
+ফসল: Turmeric | মৌসুম: Kharif 1 | রোপণ: April | বৃদ্ধি: May to Dec | কাটাই: Dec to March | তাপমাত্রা: 20.0–30.0°C | আপেক্ষিক আর্দ্রতা: 80–45% | দেশ: Bangladesh
+ফসল: Beans | মৌসুম: Kharif 1 | রোপণ: June | বৃদ্ধি: July to Nov | কাটাই: Nov to April | তাপমাত্রা: 10.0–22.0°C | আপেক্ষিক আর্দ্রতা: 75–60% | দেশ: Bangladesh
+ফসল: Ladys Finger | মৌসুম: Kharif 1 | রোপণ: April | বৃদ্ধি: May to June | কাটাই: June to Sep | তাপমাত্রা: 10.0–30.0°C | আপেক্ষিক আর্দ্রতা: 85–75% | দেশ: Bangladesh
+ফসল: Kakrol | মৌসুম: Kharif 1 | রোপণ: April | বৃদ্ধি: May to July | কাটাই: July to Sep | তাপমাত্রা: 20.0–30.0°C | আপেক্ষিক আর্দ্রতা: 85–60% | দেশ: Bangladesh
+ফসল: Jhinga(Ribbed Gourd) | মৌসুম: Kharif 1 | রোপণ: April | বৃদ্ধি: May to June | কাটাই: June to Aug | তাপমাত্রা: 18.0–28.0°C | আপেক্ষিক আর্দ্রতা: 90–70% | দেশ: Bangladesh
+ফসল: Chal Kumra(White Gourd) | মৌসুম: Kharif 1 | রোপণ: March | বৃদ্ধি: April to July | কাটাই: July to Oct | তাপমাত্রা: 18.0–27.0°C | আপেক্ষিক আর্দ্রতা: 85–65% | দেশ: Bangladesh
+ফসল: Mukhi Kachu(Taro) | মৌসুম: Kharif 1 | রোপণ: April | বৃদ্ধি: May to Sep | কাটাই: Sep to Feb | তাপমাত্রা: 8.0–15.0°C | আপেক্ষিক আর্দ্রতা: 90–65% | দেশ: Bangladesh
+ফসল: Litchi 1 | মৌসুম: Kharif 1 | রোপণ: April | বৃদ্ধি: No need to do | কাটাই: April to June | তাপমাত্রা: 6.0–28.0°C | আপেক্ষিক আর্দ্রতা: 85–70% | দেশ: Bangladesh
+ফসল: Mango 1 | মৌসুম: Kharif 1 | রোপণ: April | বৃদ্ধি: No need to do | কাটাই: April to June | তাপমাত্রা: 27.0–36.0°C | আপেক্ষিক আর্দ্রতা: 90–50% | দেশ: Bangladesh
+ফসল: Jackfruit 1 | মৌসুম: Kharif 1 | রোপণ: April | বৃদ্ধি: No need to do | কাটাই: April to June | তাপমাত্রা: 22.0–47.0°C | আপেক্ষিক আর্দ্রতা: 95–70% | দেশ: Bangladesh
+ফসল: Safeda(Sapota) 1 | মৌসুম: Kharif 1 | রোপণ: April | বৃদ্ধি: No need to do | কাটাই: Jan to March | তাপমাত্রা: 10.0–38.0°C | আপেক্ষিক আর্দ্রতা: 80–60% | দেশ: Bangladesh
+ফসল: Safeda(Sapota) 2 | মৌসুম: Kharif 1 | রোপণ: April | বৃদ্ধি: No need to do | কাটাই: May to July | তাপমাত্রা: 10.0–38.0°C | আপেক্ষিক আর্দ্রতা: 80–60% | দেশ: Bangladesh
+ফসল: Pomelo 1 | মৌসুম: Kharif 1 | রোপণ: April | বৃদ্ধি: No need to do | কাটাই: May to June | তাপমাত্রা: 25.0–30.0°C | আপেক্ষিক আর্দ্রতা: 90–70% | দেশ: Bangladesh
+ফসল: Guava | মৌসুম: Kharif 1 | রোপণ: April | বৃদ্ধি: No need to do | কাটাই: Throuout The year | তাপমাত্রা: 23.0–35.0°C | আপেক্ষিক আর্দ্রতা: 85–50% | দেশ: Bangladesh
+ফসল: Date Palm | মৌসুম: Kharif 1 | রোপণ: April | বৃদ্ধি: No need to do | কাটাই: Feb to March | তাপমাত্রা: 6.0–35.0°C | আপেক্ষিক আর্দ্রতা: 85–60% | দেশ: Bangladesh
+ফসল: Dalim(Pomegranate) 1 | মৌসুম: Kharif 1 | রোপণ: April | বৃদ্ধি: No need to do | কাটাই: Throuout The year | তাপমাত্রা: 5.0–38.0°C | আপেক্ষিক আর্দ্রতা: 95–70% | দেশ: Bangladesh
+ফসল: Ber 1 | মৌসুম: Kharif 1 | রোপণ: April | বৃদ্ধি: No need to do | কাটাই: Feb to March | তাপমাত্রা: 18.0–33.0°C | আপেক্ষিক আর্দ্রতা: 85–60% | দেশ: Bangladesh
+ফসল: Boro(HYV: Transplant) | মৌসুম: Rabi | রোপণ: Nov | বৃদ্ধি: Dec to March | কাটাই: April | তাপমাত্রা: 12.0–40.0°C | আপেক্ষিক আর্দ্রতা: 85–60% | দেশ: Bangladesh
+ফসল: Wheat | মৌসুম: Rabi | রোপণ: Dec | বৃদ্ধি: Jan to March | কাটাই: April | তাপমাত্রা: 15.5–20.0°C | আপেক্ষিক আর্দ্রতা: 60–50% | দেশ: Bangladesh
+ফসল: Maize 1 | মৌসুম: Rabi | রোপণ: Dec | বৃদ্ধি: Jan to March | কাটাই: April | তাপমাত্রা: 14.0–27.0°C | আপেক্ষিক আর্দ্রতা: 70–50% | দেশ: Bangladesh
+ফসল: Mungbean 1 | মৌসুম: Rabi | রোপণ: Sep | বৃদ্ধি: Oct to Feb | কাটাই: March | তাপমাত্রা: 20.0–30.0°C | আপেক্ষিক আর্দ্রতা: 85–20% | দেশ: Bangladesh
+ফসল: Soybean 1 | মৌসুম: Rabi | রোপণ: Dec | বৃদ্ধি: Jan to April | কাটাই: May | তাপমাত্রা: 15.0–25.0°C | আপেক্ষিক আর্দ্রতা: 70–30% | দেশ: Bangladesh
+ফসল: Groundnut 1 | মৌসুম: Rabi | রোপণ: Oct | বৃদ্ধি: Nov to March | কাটাই: March to April | তাপমাত্রা: 20.0–35.0°C | আপেক্ষিক আর্দ্রতা: 90–80% | দেশ: Bangladesh
+ফসল: Sesame 1 | মৌসুম: Rabi | রোপণ: Nov | বৃদ্ধি: Dec to Jan | কাটাই: Feb | তাপমাত্রা: 27.0–35.0°C | আপেক্ষিক আর্দ্রতা: 50–40% | দেশ: Bangladesh
+ফসল: Bitter Gourd | মৌসুম: Rabi | রোপণ: Feb | বৃদ্ধি: March to July | কাটাই: Aug to Sep | তাপমাত্রা: 24.0–27.0°C | আপেক্ষিক আর্দ্রতা: 90–85% | দেশ: Bangladesh
+ফসল: Snake Gourd | মৌসুম: Rabi | রোপণ: Feb | বৃদ্ধি: March to Aug | কাটাই: Aug to Sep | তাপমাত্রা: 25.0–38.0°C | আপেক্ষিক আর্দ্রতা: 90–85% | দেশ: Bangladesh
+ফসল: Sweet Gourd | মৌসুম: Rabi | রোপণ: Feb | বৃদ্ধি: April to July | কাটাই: Aug to Sep | তাপমাত্রা: 18.0–25.0°C | আপেক্ষিক আর্দ্রতা: 60–20% | দেশ: Bangladesh
+ফসল: Stem Amaranth(Danta Shakh) | মৌসুম: Rabi | রোপণ: March | বৃদ্ধি: April to Aug | কাটাই: Sep | তাপমাত্রা: 18.0–32.0°C | আপেক্ষিক আর্দ্রতা: 85–75% | দেশ: Bangladesh
+ফসল: Orange | মৌসুম: Rabi | রোপণ: Nov | বৃদ্ধি: Jan to May | কাটাই: June | তাপমাত্রা: 15.0–30.0°C | আপেক্ষিক আর্দ্রতা: 85–82% | দেশ: Bangladesh
+ফসল: Lemon | মৌসুম: Rabi | রোপণ: Jan | বৃদ্ধি: Jan to Jan | কাটাই: Jan | তাপমাত্রা: 10.0–25.0°C | আপেক্ষিক আর্দ্রতা: 95–60% | দেশ: Bangladesh
+ফসল: Banana | মৌসুম: Rabi | রোপণ: Jan | বৃদ্ধি: Jan to Jan | কাটাই: Jan | তাপমাত্রা: 15.0–35.0°C | আপেক্ষিক আর্দ্রতা: 85–75% | দেশ: Bangladesh
+ফসল: Green Pea | মৌসুম: Rabi | রোপণ: Nov | বৃদ্ধি: Dec to Feb | কাটাই: March | তাপমাত্রা: 15.0–22.0°C | আপেক্ষিক আর্দ্রতা: 90–80% | দেশ: Bangladesh
+ফসল: Okra | মৌসুম: Rabi | রোপণ: Jan | বৃদ্ধি: Feb to Aug | কাটাই: Sep to Oct | তাপমাত্রা: 20.0–29.0°C | আপেক্ষিক আর্দ্রতা: 95–70% | দেশ: Bangladesh
+ফসল: Onion 1 | মৌসুম: Rabi | রোপণ: Oct | বৃদ্ধি: Nov to Jan | কাটাই: Feb | তাপমাত্রা: 20.0–25.0°C | আপেক্ষিক আর্দ্রতা: 75–65% | দেশ: Bangladesh
+ফসল: Sweet Potatoes | মৌসুম: Rabi | রোপণ: Nov | বৃদ্ধি: Dec to March | কাটাই: April | তাপমাত্রা: 17.0–24.0°C | আপেক্ষিক আর্দ্রতা: 90–70% | দেশ: Bangladesh
+ফসল: Kaong | মৌসুম: Rabi | রোপণ: Nov | বৃদ্ধি: Dec to March | কাটাই: Mid March to mid aug | তাপমাত্রা: 10.0–25.0°C | আপেক্ষিক আর্দ্রতা: 95–75% | দেশ: Bangladesh
+ফসল: Cheena | মৌসুম: Rabi | রোপণ: Nov | বৃদ্ধি: Dec to Feb | কাটাই: Feb to April | তাপমাত্রা: 17.0–25.0°C | আপেক্ষিক আর্দ্রতা: 85–40% | দেশ: Bangladesh
+ফসল: Teel 1 | মৌসুম: Rabi | রোপণ: Feb | বৃদ্ধি: March to May | কাটাই: May to June | তাপমাত্রা: 20.0–30.0°C | আপেক্ষিক আর্দ্রতা: 85–50% | দেশ: Bangladesh
+ফসল: Kakora | মৌসুম: Rabi | রোপণ: Dec | বৃদ্ধি: Jan to May | কাটাই: May to July | তাপমাত্রা: 20.0–30.0°C | আপেক্ষিক আর্দ্রতা: 55–20% | দেশ: Bangladesh
+ফসল: Aman Rice(Local: Transplant) | মৌসুম: Kharif 2 | রোপণ: June | বৃদ্ধি: July to Oct | কাটাই: Nov to Dec | তাপমাত্রা: 12.0–40.0°C | আপেক্ষিক আর্দ্রতা: 85–60% | দেশ: Bangladesh
+ফসল: Potato | মৌসুম: Kharif 2 | রোপণ: Sep | বৃদ্ধি: Oct to Jan | কাটাই: Feb | তাপমাত্রা: 15.0–26.5°C | আপেক্ষিক আর্দ্রতা: 90–85% | দেশ: Bangladesh
+ফসল: Lentiles | মৌসুম: Kharif 2 | রোপণ: Oct | বৃদ্ধি: Nov to Feb | কাটাই: Feb to March | তাপমাত্রা: 10.0–20.0°C | আপেক্ষিক আর্দ্রতা: 95–85% | দেশ: Bangladesh
+ফসল: Chickpea | মৌসুম: Kharif 2 | রোপণ: Nov | বৃদ্ধি: Dec to March | কাটাই: March to April | তাপমাত্রা: 15.0–26.5°C | আপেক্ষিক আর্দ্রতা: 85–25% | দেশ: Bangladesh
+ফসল: Blackgram | মৌসুম: Kharif 2 | রোপণ: Aug | বৃদ্ধি: Sep to Oct | কাটাই: Nov | তাপমাত্রা: 20.0–35.0°C | আপেক্ষিক আর্দ্রতা: 45–25% | দেশ: Bangladesh
+ফসল: Mustard | মৌসুম: Kharif 2 | রোপণ: Oct | বৃদ্ধি: Nov to Jan | কাটাই: Feb | তাপমাত্রা: 10.0–25.0°C | আপেক্ষিক আর্দ্রতা: 95–70% | দেশ: Bangladesh
+ফসল: Sesame 2 | মৌসুম: Kharif 2 | রোপণ: March | বৃদ্ধি: April to July | কাটাই: July to Aug | তাপমাত্রা: 20.0–30.0°C | আপেক্ষিক আর্দ্রতা: 50–40% | দেশ: Bangladesh
+ফসল: Bottle Gourd | মৌসুম: Kharif 2 | রোপণ: July | বৃদ্ধি: Sep to Feb | কাটাই: March | তাপমাত্রা: 18.0–35.0°C | আপেক্ষিক আর্দ্রতা: 85–75% | দেশ: Bangladesh
+ফসল: Cucumber | মৌসুম: Kharif 2 | রোপণ: Sep | বৃদ্ধি: Nov to March | কাটাই: March to jun | তাপমাত্রা: 18.0–35.0°C | আপেক্ষিক আর্দ্রতা: 90–60% | দেশ: Bangladesh
+ফসল: Cauliflower | মৌসুম: Kharif 2 | রোপণ: Sep | বৃদ্ধি: Nov to Jan | কাটাই: Feb | তাপমাত্রা: 8.0–30.0°C | আপেক্ষিক আর্দ্রতা: 85–70% | দেশ: Bangladesh
+ফসল: Chinese Cabbage | মৌসুম: Kharif 2 | রোপণ: Sep | বৃদ্ধি: Oct to Feb | কাটাই: March | তাপমাত্রা: 8.0–24.0°C | আপেক্ষিক আর্দ্রতা: 85–70% | দেশ: Bangladesh
+ফসল: Radish | মৌসুম: Kharif 2 | রোপণ: Oct | বৃদ্ধি: Nov to Feb | কাটাই: March | তাপমাত্রা: 10.0–22.0°C | আপেক্ষিক আর্দ্রতা: 95–75% | দেশ: Bangladesh
+ফসল: Carrot | মৌসুম: Kharif 2 | রোপণ: Oct | বৃদ্ধি: Nov to Feb | কাটাই: March | তাপমাত্রা: 15.0–21.0°C | আপেক্ষিক আর্দ্রতা: 86–47% | দেশ: Bangladesh
+ফসল: Cabbage | মৌসুম: Kharif 2 | রোপণ: Sep | বৃদ্ধি: Oct to Jan | কাটাই: Feb | তাপমাত্রা: 10.0–24.0°C | আপেক্ষিক আর্দ্রতা: 90–60% | দেশ: Bangladesh
+ফসল: Suger Can | মৌসুম: Kharif 2 | রোপণ: Oct | বৃদ্ধি: Nov to Aug | কাটাই: Aug to Sep | তাপমাত্রা: 20.0–38.0°C | আপেক্ষিক আর্দ্রতা: 85–45% | দেশ: Bangladesh
+ফসল: Jujube | মৌসুম: Kharif 2 | রোপণ: Sep | বৃদ্ধি: Oct to Feb | কাটাই: March | তাপমাত্রা: 15.0–25.0°C | আপেক্ষিক আর্দ্রতা: 80–60% | দেশ: Bangladesh
+ফসল: Pine Apple | মৌসুম: Kharif 2 | রোপণ: Sep | বৃদ্ধি: Sep to May | কাটাই: June to Aug | তাপমাত্রা: 18.0–35.0°C | আপেক্ষিক আর্দ্রতা: 80–70% | দেশ: Bangladesh
+ফসল: Tomato | মৌসুম: Kharif 2 | রোপণ: Aug | বৃদ্ধি: Sep to Jan | কাটাই: Jan | তাপমাত্রা: 18.0–30.0°C | আপেক্ষিক আর্দ্রতা: 90–80% | দেশ: Bangladesh
+ফসল: Yardlong Bean | মৌসুম: Kharif 2 | রোপণ: Oct | বৃদ্ধি: Nov to Feb | কাটাই: March | তাপমাত্রা: 21.0–27.0°C | আপেক্ষিক আর্দ্রতা: 80–70% | দেশ: Bangladesh
+ফসল: Garlic | মৌসুম: Kharif 2 | রোপণ: Oct | বৃদ্ধি: Nov to Jan | কাটাই: Feb | তাপমাত্রা: 20.0–30.0°C | আপেক্ষিক আর্দ্রতা: 70–65% | দেশ: Bangladesh
+ফসল: Coriander(Dhonia) | মৌসুম: Kharif 2 | রোপণ: Oct | বৃদ্ধি: Nov to Jan | কাটাই: Feb | তাপমাত্রা: 18.0–21.0°C | আপেক্ষিক আর্দ্রতা: 85–75% | দেশ: Bangladesh
+ফসল: Spinach | মৌসুম: Kharif 2 | রোপণ: Aug | বৃদ্ধি: Sep to Jan | কাটাই: Feb | তাপমাত্রা: 12.0–30.0°C | আপেক্ষিক আর্দ্রতা: 75–65% | দেশ: Bangladesh
+ফসল: Barley | মৌসুম: Kharif 2 | রোপণ: Oct | বৃদ্ধি: Dec to Feb | কাটাই: Feb to April | তাপমাত্রা: 12.0–25.0°C | আপেক্ষিক আর্দ্রতা: 95–80% | দেশ: Bangladesh
+ফসল: Sunn Hemp 2 | মৌসুম: Kharif 2 | রোপণ: Sep | বৃদ্ধি: Oct to Feb | কাটাই: Feb to April | তাপমাত্রা: 18.0–27.0°C | আপেক্ষিক আর্দ্রতা: 85–50% | দেশ: Bangladesh
+ফসল: Cotton 2 | মৌসুম: Kharif 2 | রোপণ: Aug | বৃদ্ধি: Sep to Feb | কাটাই: Feb to April | তাপমাত্রা: 18.0–30.0°C | আপেক্ষিক আর্দ্রতা: 76–43% | দেশ: Bangladesh
+ফসল: RapeSeed | মৌসুম: Kharif 2 | রোপণ: Oct | বৃদ্ধি: Nov to Jan | কাটাই: Feb | তাপমাত্রা: 10.0–25.0°C | আপেক্ষিক আর্দ্রতা: 95–70% | দেশ: Bangladesh
+ফসল: Teel 2 | মৌসুম: Kharif 2 | রোপণ: Sep | বৃদ্ধি: Oct to Dec | কাটাই: Dec | তাপমাত্রা: 20.0–30.0°C | আপেক্ষিক আর্দ্রতা: 85–50% | দেশ: Bangladesh
+ফসল: Linseed | মৌসুম: Kharif 2 | রোপণ: Oct | বৃদ্ধি: Nov to March | কাটাই: March to May | তাপমাত্রা: 15.0–30.0°C | আপেক্ষিক আর্দ্রতা: 70–50% | দেশ: Bangladesh
+ফসল: Barbati | মৌসুম: Kharif 2 | রোপণ: Sep | বৃদ্ধি: Oct to Dec | কাটাই: December to April | তাপমাত্রা: 20.0–30.0°C | আপেক্ষিক আর্দ্রতা: 85–60% | দেশ: Bangladesh
+ফসল: Kheshari | মৌসুম: Kharif 2 | রোপণ: Oct | বৃদ্ধি: Nov to Feb | কাটাই: Feb to April | তাপমাত্রা: 10.0–25.0°C | আপেক্ষিক আর্দ্রতা: 45–20% | দেশ: Bangladesh
+ফসল: Motor(Field Pea) | মৌসুম: Kharif 2 | রোপণ: Oct | বৃদ্ধি: Nov to March | কাটাই: March to April | তাপমাত্রা: 15.0–30.0°C | আপেক্ষিক আর্দ্রতা: 90–75% | দেশ: Bangladesh
+ফসল: Tobacco | মৌসুম: Kharif 2 | রোপণ: Oct | বৃদ্ধি: Nov to Feb | কাটাই: Feb to April | তাপমাত্রা: 15.0–20.0°C | আপেক্ষিক আর্দ্রতা: 85–50% | দেশ: Bangladesh
+ফসল: Oal Kapi(Knol Khol) | মৌসুম: Kharif 2 | রোপণ: Sep | বৃদ্ধি: Oct to Dec | কাটাই: Dec to Feb | তাপমাত্রা: 15.0–32.0°C | আপেক্ষিক আর্দ্রতা: 70–52% | দেশ: Bangladesh
+ফসল: Shalgam(Turnip) | মৌসুম: Kharif 2 | রোপণ: Sep | বৃদ্ধি: Oct to Nov | কাটাই: Nov to Feb | তাপমাত্রা: 5.0–24.0°C | আপেক্ষিক আর্দ্রতা: 95–70% | দেশ: Bangladesh
+ফসল: Beetroot | মৌসুম: Kharif 2 | রোপণ: Sep | বৃদ্ধি: Oct to Dec | কাটাই: Dec to April | তাপমাত্রা: 5.0–24.0°C | আপেক্ষিক আর্দ্রতা: 90–70% | দেশ: Bangladesh
+ফসল: Lettuce | মৌসুম: Kharif 2 | রোপণ: Oct | বৃদ্ধি: Nov to Dec | কাটাই: Dec to Feb | তাপমাত্রা: 7.0–24.0°C | আপেক্ষিক আর্দ্রতা: 70–50% | দেশ: Bangladesh
+ফসল: Water Gourd | মৌসুম: Kharif 2 | রোপণ: July | বৃদ্ধি: Aug to Jan | কাটাই: Jan to March | তাপমাত্রা: 18.0–35.0°C | আপেক্ষিক আর্দ্রতা: 85–75% | দেশ: Bangladesh
+ফসল: Patal | মৌসুম: Kharif 2 | রোপণ: Aug | বৃদ্ধি: Sep to Jan | কাটাই: Jan to March | তাপমাত্রা: 20.0–35.0°C | আপেক্ষিক আর্দ্রতা: 85–60% | দেশ: Bangladesh
+ফসল: Water Melon | মৌসুম: Kharif 2 | রোপণ: Oct | বৃদ্ধি: Nov to Feb | কাটাই: Feb to June | তাপমাত্রা: 10.0–33.0°C | আপেক্ষিক আর্দ্রতা: 80–65% | দেশ: Bangladesh
+ফসল: Melon | মৌসুম: Kharif 2 | রোপণ: Oct | বৃদ্ধি: Nov to Feb | কাটাই: Feb to June | তাপমাত্রা: 10.0–33.0°C | আপেক্ষিক আর্দ্রতা: 80–65% | দেশ: Bangladesh
+ফসল: Kharmuj(Musk Melon) | মৌসুম: Kharif 2 | রোপণ: Oct | বৃদ্ধি: Nov to Feb | কাটাই: Feb to June | তাপমাত্রা: 10.0–33.0°C | আপেক্ষিক আর্দ্রতা: 80–65% | দেশ: Bangladesh
+ফসল: Litchi 2 | মৌসুম: Kharif 2 | রোপণ: Sep | বৃদ্ধি: No need to do | কাটাই: April to June | তাপমাত্রা: 6.0–28.0°C | আপেক্ষিক আর্দ্রতা: 85–70% | দেশ: Bangladesh
+ফসল: Mango 2 | মৌসুম: Kharif 2 | রোপণ: Sep | বৃদ্ধি: No need to do | কাটাই: April to June | তাপমাত্রা: 27.0–36.0°C | আপেক্ষিক আর্দ্রতা: 90–50% | দেশ: Bangladesh
+ফসল: Jackfruit 2 | মৌসুম: Kharif 2 | রোপণ: Sep | বৃদ্ধি: No need to do | কাটাই: April to June | তাপমাত্রা: 22.0–47.0°C | আপেক্ষিক আর্দ্রতা: 95–70% | দেশ: Bangladesh
+ফসল: Pomelo 2 | মৌসুম: Kharif 2 | রোপণ: Sep | বৃদ্ধি: No need to do | কাটাই: May to June | তাপমাত্রা: 25.0–30.0°C | আপেক্ষিক আর্দ্রতা: 90–70% | দেশ: Bangladesh
+ফসল: Dalim(Pomegranate) 2 | মৌসুম: Kharif 2 | রোপণ: Sep | বৃদ্ধি: No need to do | কাটাই: Throuout The year | তাপমাত্রা: 5.0–38.0°C | আপেক্ষিক আর্দ্রতা: 95–70% | দেশ: Bangladesh
+ফসল: Ber 2 | মৌসুম: Kharif 2 | রোপণ: Sep | বৃদ্ধি: No need to do | কাটাই: Feb to March | তাপমাত্রা: 20.0–30.0°C | আপেক্ষিক আর্দ্রতা: 85–60% | দেশ: Bangladesh

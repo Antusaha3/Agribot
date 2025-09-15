@@ -1,0 +1,104 @@
+id,name_bn,name_en,min_temp_c,max_temp_c,min_rh,max_rh
+crop:aus-rice-local-broadcasted,Aus Rice(Local: Broadcasted),,12.0,40.0,85.0,60.0
+crop:aus-rice-hyv-transplant,Aus Rice(HYV: Transplant),,12.0,40.0,85.0,60.0
+crop:maize-2,Maize 2,,20.0,34.0,85.0,60.0
+crop:mungbean-2,Mungbean 2,,20.0,30.0,85.0,20.0
+crop:soybean-2,Soybean 2,,15.0,35.0,80.0,35.0
+crop:groundnut-2,Groundnut 2,,20.0,35.0,90.0,80.0
+crop:ridge-gourd,Ridge Gourd,,25.0,35.0,90.0,85.0
+crop:indian-spinach-pui-shakh,Indian Spinach(Pui shakh),,15.0,20.0,95.0,75.0
+crop:kang-kong-kolomi-shakh,Kang Kong(Kolomi Shakh),,20.0,35.0,100.0,80.0
+crop:egg-plant,Egg plant,,23.0,45.0,85.0,50.0
+crop:hyacinth-bean,Hyacinth Bean,,17.0,25.0,94.0,76.0
+crop:onion-2,Onion 2,,20.0,30.0,75.0,65.0
+crop:jute-capsularis,Jute(Capsularis),,20.0,40.0,80.0,70.0
+crop:jute-olitorius,Jute(Olitorius),,20.0,40.0,80.0,70.0
+crop:jowar,Jowar,,27.0,32.0,75.0,65.0
+crop:sunn-hemp-1,Sunn Hemp 1,,18.0,27.0,70.0,40.0
+crop:cotton-1,Cotton 1,,20.0,35.0,76.0,43.0
+crop:turmeric,Turmeric,,20.0,30.0,80.0,45.0
+crop:beans,Beans,,10.0,22.0,75.0,60.0
+crop:ladys-finger,Ladys Finger,,10.0,30.0,85.0,75.0
+crop:kakrol,Kakrol,,20.0,30.0,85.0,60.0
+crop:jhinga-ribbed-gourd,Jhinga(Ribbed Gourd),,18.0,28.0,90.0,70.0
+crop:chal-kumra-white-gourd,Chal Kumra(White Gourd),,18.0,27.0,85.0,65.0
+crop:mukhi-kachu-taro,Mukhi Kachu(Taro),,8.0,15.0,90.0,65.0
+crop:litchi-1,Litchi 1,,6.0,28.0,85.0,70.0
+crop:mango-1,Mango 1,,27.0,36.0,90.0,50.0
+crop:jackfruit-1,Jackfruit 1,,22.0,47.0,95.0,70.0
+crop:safeda-sapota-1,Safeda(Sapota) 1,,10.0,38.0,80.0,60.0
+crop:safeda-sapota-2,Safeda(Sapota) 2,,10.0,38.0,80.0,60.0
+crop:pomelo-1,Pomelo 1,,25.0,30.0,90.0,70.0
+crop:guava,Guava,,23.0,35.0,85.0,50.0
+crop:date-palm,Date Palm,,6.0,35.0,85.0,60.0
+crop:dalim-pomegranate-1,Dalim(Pomegranate) 1,,5.0,38.0,95.0,70.0
+crop:ber-1,Ber 1,,18.0,33.0,85.0,60.0
+crop:boro-hyv-transplant,Boro(HYV: Transplant),,12.0,40.0,85.0,60.0
+crop:wheat,Wheat,,15.5,20.0,60.0,50.0
+crop:maize-1,Maize 1,,14.0,27.0,70.0,50.0
+crop:mungbean-1,Mungbean 1,,20.0,30.0,85.0,20.0
+crop:soybean-1,Soybean 1,,15.0,25.0,70.0,30.0
+crop:groundnut-1,Groundnut 1,,20.0,35.0,90.0,80.0
+crop:sesame-1,Sesame 1,,27.0,35.0,50.0,40.0
+crop:bitter-gourd,Bitter Gourd,,24.0,27.0,90.0,85.0
+crop:snake-gourd,Snake Gourd,,25.0,38.0,90.0,85.0
+crop:sweet-gourd,Sweet Gourd,,18.0,25.0,60.0,20.0
+crop:stem-amaranth-danta-shakh,Stem Amaranth(Danta Shakh),,18.0,32.0,85.0,75.0
+crop:orange,Orange,,15.0,30.0,85.0,82.0
+crop:lemon,Lemon,,10.0,25.0,95.0,60.0
+crop:banana,Banana,,15.0,35.0,85.0,75.0
+crop:green-pea,Green Pea,,15.0,22.0,90.0,80.0
+crop:okra,Okra,,20.0,29.0,95.0,70.0
+crop:onion-1,Onion 1,,20.0,25.0,75.0,65.0
+crop:sweet-potatoes,Sweet Potatoes,,17.0,24.0,90.0,70.0
+crop:kaong,Kaong,,10.0,25.0,95.0,75.0
+crop:cheena,Cheena,,17.0,25.0,85.0,40.0
+crop:teel-1,Teel 1,,20.0,30.0,85.0,50.0
+crop:kakora,Kakora,,20.0,30.0,55.0,20.0
+crop:aman-rice-local-transplant,Aman Rice(Local: Transplant),,12.0,40.0,85.0,60.0
+crop:potato,Potato,,15.0,26.5,90.0,85.0
+crop:lentiles,Lentiles,,10.0,20.0,95.0,85.0
+crop:chickpea,Chickpea,,15.0,26.5,85.0,25.0
+crop:blackgram,Blackgram,,20.0,35.0,45.0,25.0
+crop:mustard,Mustard,,10.0,25.0,95.0,70.0
+crop:sesame-2,Sesame 2,,20.0,30.0,50.0,40.0
+crop:bottle-gourd,Bottle Gourd,,18.0,35.0,85.0,75.0
+crop:cucumber,Cucumber,,18.0,35.0,90.0,60.0
+crop:cauliflower,Cauliflower,,8.0,30.0,85.0,70.0
+crop:chinese-cabbage,Chinese Cabbage,,8.0,24.0,85.0,70.0
+crop:radish,Radish,,10.0,22.0,95.0,75.0
+crop:carrot,Carrot,,15.0,21.0,86.0,47.0
+crop:cabbage,Cabbage,,10.0,24.0,90.0,60.0
+crop:suger-can,Suger Can,,20.0,38.0,85.0,45.0
+crop:jujube,Jujube,,15.0,25.0,80.0,60.0
+crop:pine-apple,Pine Apple,,18.0,35.0,80.0,70.0
+crop:tomato,Tomato,,18.0,30.0,90.0,80.0
+crop:yardlong-bean,Yardlong Bean,,21.0,27.0,80.0,70.0
+crop:garlic,Garlic,,20.0,30.0,70.0,65.0
+crop:coriander-dhonia,Coriander(Dhonia),,18.0,21.0,85.0,75.0
+crop:spinach,Spinach,,12.0,30.0,75.0,65.0
+crop:barley,Barley,,12.0,25.0,95.0,80.0
+crop:sunn-hemp-2,Sunn Hemp 2,,18.0,27.0,85.0,50.0
+crop:cotton-2,Cotton 2,,18.0,30.0,76.0,43.0
+crop:rapeseed,RapeSeed,,10.0,25.0,95.0,70.0
+crop:teel-2,Teel 2,,20.0,30.0,85.0,50.0
+crop:linseed,Linseed,,15.0,30.0,70.0,50.0
+crop:barbati,Barbati,,20.0,30.0,85.0,60.0
+crop:kheshari,Kheshari,,10.0,25.0,45.0,20.0
+crop:motor-field-pea,Motor(Field Pea),,15.0,30.0,90.0,75.0
+crop:tobacco,Tobacco,,15.0,20.0,85.0,50.0
+crop:oal-kapi-knol-khol,Oal Kapi(Knol Khol),,15.0,32.0,70.0,52.0
+crop:shalgam-turnip,Shalgam(Turnip),,5.0,24.0,95.0,70.0
+crop:beetroot,Beetroot,,5.0,24.0,90.0,70.0
+crop:lettuce,Lettuce,,7.0,24.0,70.0,50.0
+crop:water-gourd,Water Gourd,,18.0,35.0,85.0,75.0
+crop:patal,Patal,,20.0,35.0,85.0,60.0
+crop:water-melon,Water Melon,,10.0,33.0,80.0,65.0
+crop:melon,Melon,,10.0,33.0,80.0,65.0
+crop:kharmuj-musk-melon,Kharmuj(Musk Melon),,10.0,33.0,80.0,65.0
+crop:litchi-2,Litchi 2,,6.0,28.0,85.0,70.0
+crop:mango-2,Mango 2,,27.0,36.0,90.0,50.0
+crop:jackfruit-2,Jackfruit 2,,22.0,47.0,95.0,70.0
+crop:pomelo-2,Pomelo 2,,25.0,30.0,90.0,70.0
+crop:dalim-pomegranate-2,Dalim(Pomegranate) 2,,5.0,38.0,95.0,70.0
+crop:ber-2,Ber 2,,20.0,30.0,85.0,60.0

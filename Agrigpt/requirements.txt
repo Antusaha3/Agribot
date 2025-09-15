@@ -1,0 +1,18 @@
+python-dotenv
+pydantic>=2
+fastapi
+uvicorn[standard]
+streamlit
+pandas
+numpy
+pyyaml
+tqdm
+regex
+sentence-transformers
+psycopg2-binary
+SQLAlchemy>=2
+pgvector
+neo4j
+transformers>=4.41.0
+accelerate
+bitsandbytes; sys_platform == 'linux'  # optional 4-bit

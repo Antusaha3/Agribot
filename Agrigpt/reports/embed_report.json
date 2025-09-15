@@ -1,0 +1,8 @@
+{
+  "model": "intfloat/multilingual-e5-large",
+  "rows": 414,
+  "dim": 1024,
+  "norm_mean": 1.0,
+  "norm_std": 4.910583584205597e-08,
+  "device": "cpu"
+}

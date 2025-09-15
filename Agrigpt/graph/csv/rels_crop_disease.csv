@@ -1,0 +1,31 @@
+crop_id,disease_id,notes
+crop:aman,dis:false-smut,শীষে হলদে-সবুজ গোল বলের মতো গুচ্ছ
+crop:aman,dis:sheath-rot,তিলার খোলসে বাদামি পচন
+crop:aman,dis:rice-tungro-virus,ভাইরাল; পাতায় হলদে-কমলা বর্ণ
+crop:aman,dis:narrow-brown-spot,পাতায় সরু বাদামি দাগ
+crop:aman,dis:leaf-folder,পতঙ্গ; পাতা ভাঁজ করে খায়
+crop:aman,dis:yellow-stem-borer,পতঙ্গ; ডেড হার্ট/হোয়াইট হেড
+crop:aman,dis:rice-hispa,পতঙ্গ; পাতার ওপর স্ক্র্যাপিং
+crop:aus,dis:blast,পাতা/গোড়ায় পোড়া দাগ
+crop:aus,dis:brown-spot,পাতায় বাদামি দাগ
+crop:aus,dis:false-smut,শীষে বলের মতো গুচ্ছ
+crop:aus,dis:leaf-folder,পতঙ্গ
+crop:aus,dis:yellow-stem-borer,পতঙ্গ
+crop:aus,dis:rice-hispa,পতঙ্গ
+crop:boro,dis:sheath-blight,তিলার গোড়ায় পচন
+crop:boro,dis:false-smut,শীষে বল
+crop:boro,dis:sheath-rot,খোলস পচন
+crop:boro,dis:leaf-folder,পতঙ্গ
+crop:boro,dis:yellow-stem-borer,পতঙ্গ
+crop:boro,dis:narrow-brown-spot,পাতায় সরু দাগ
+crop:wheat,dis:powdery-mildew,পাতায় সাদা ছত্রাক স্তর
+crop:wheat,dis:septoria-leaf-blotch,পাতায় অনিয়মিত দাগ
+crop:wheat,dis:karnal-bunt,শীষ/দানায় কালচে গুটি
+crop:wheat,dis:loose-smut,শীষে কালো স্পোর
+crop:wheat,dis:fusarium-head-blight,শীষ পচা/গোলাপি ছত্রাক
+crop:tomato,dis:bacterial-wilt,Ralstonia; হঠাৎ ঢলে পড়া
+crop:tomato,dis:tomato-mosaic-virus,পাতা কুঁচকে মোজাইক দাগ
+crop:tomato,dis:septoria-leaf-spot,পাতায় ছোট গোল দাগ
+crop:tomato,dis:powdery-mildew,সাদা ছত্রাক স্তর
+crop:tomato,dis:root-knot-nematode,গোড়ায় গুটি; গাছ দুর্বল
+crop:tomato,dis:tomato-fruit-borer,পতঙ্গ; ফলে গর্ত করে খায়
